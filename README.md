@@ -5,4 +5,5 @@ Required data set is broken down to three parts:
 * train
 * test
 * store (metadata)  
+
 which can be downloaded from here: https://www.kaggle.com/c/rossmann-store-sales/data 
